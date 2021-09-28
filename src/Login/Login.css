@@ -1,0 +1,57 @@
+h1
+{
+    text-align: center;
+    max-width: 500px;
+    max-height: 345px;
+    align-items: center;
+    font-family:cursive;
+    font-variant-caps: unset;
+    font-size: 55px;
+    color: lightblue;   
+    margin: 0 auto;
+    border: 1px solid black;
+    border-block-color: inherit;
+    background-color: teal;
+}
+h1:hover{
+    background-color: black;
+}
+.in{
+   padding: 2pt;
+    width: 200px;
+   margin: 0.4cm auto;
+   margin-left: 34px;
+
+}
+button{
+    padding: 12px;
+    color:cornsilk;
+    background-color: cadetblue;
+    font-family: cursive;
+    font-size: 8px;
+}
+button:hover{
+    background-color:black;
+}
+.add-remove > button > a {
+    color: #ffff;
+}
+button.remove {
+    font-size: 17px;
+}
+.d1{
+    background-color: whitesmoke;
+    background-image: url('../images/img2.jpg');
+    padding: 7%;
+}
+.form{
+    
+    color:lightblue;
+    font-weight: 1000;
+    font-style: oblique;
+    margin-top: 4cm;
+    text-align: center;
+    letter-spacing: 1px;
+    border: 1px solid black;
+    background-color: darkslategrey;
+}
